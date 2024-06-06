@@ -21,7 +21,7 @@ The AIINFRA team is transnational and broad, with a 'many hands make light work'
 | Trove Consultant                             | [Jenny Ostini](https://au.linkedin.com/in/jennyostini) |
 | Hansard Consultant, AU                | [Roxanne Missingham](https://anulib.anu.edu.au/about/key-library-personnel/roxanne-missingham) |
 | Hansard Consultant, UK               | [Martin Spychal](https://www.historyofparliamentonline.org/about/staff/dr-martin-spychal) |
-| Research Officer                             | TBC |
+| Research Officer                             | [Glen Berman](https://www.linkedin.com/posts/glenberman_innovative-methods-for-critical-studies-of-activity-6953573626814025728-JrKu/) |
 | Software Vendor                              | TBC |
 
 ## Observers

@@ -1,14 +1,14 @@
 {
   "name": "AI as Infrastructure",
   "short_name": "AI as Infrastructure",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/aiinfra/",
+  "scope": "/aiinfra/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/aiinfra/favicon.svg",
       "sizes": "512x512"
     }
   ]

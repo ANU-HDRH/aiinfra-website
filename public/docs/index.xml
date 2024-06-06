@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on AI as Infrastructure</title>
-    <link>http://localhost:1313/docs/</link>
+    <link>https://jamessmithies.github.io/aiinfra/docs/</link>
     <description>Recent content in Docs on AI as Infrastructure</description>
     <generator>Hugo</generator>
     <language>en-au</language>
-    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jamessmithies.github.io/aiinfra/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Overview</title>
-      <link>http://localhost:1313/docs/project-overview/</link>
+      <link>https://jamessmithies.github.io/aiinfra/docs/project-overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/project-overview/</guid>
-      <description>Overview # The commercialization of Large Language Models (LLM) in products such as Chat-GPT (Open AI), Bing (Microsoft), and Bard (Google) has raised critical questions for academic research and the GLAM sector. The rapid growth of these tools parallels the growth of the World Wide Web in the mid-1990s, presenting both opportunities and risks. Concerns range from methodological and epistemological (how these tools should be included in research workflows and what effect will they have on knowledge production) to practical and strategic (copyright implications, cost, security implications).</description>
+      <guid>https://jamessmithies.github.io/aiinfra/docs/project-overview/</guid>
+      <description>Overview # The commercialization of Large Language Models (LLM) in products such as Chat-GPT (Open AI), Co-Pilot (Microsoft), and Gemini (Google) has raised critical questions for academic research and the GLAM sector. The rapid growth of these tools parallels the growth of the World Wide Web in the mid-1990s, presenting both opportunities and risks. Concerns range from methodological and epistemological (how these tools should be included in research workflows and what effect will they have on knowledge production) to practical and strategic (copyright implications, cost, security implications).</description>
     </item>
     <item>
       <title>Team</title>
-      <link>http://localhost:1313/docs/team/</link>
+      <link>https://jamessmithies.github.io/aiinfra/docs/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/team/</guid>
-      <description>Team # The AIINFRA team is transnational and broad, with a &amp;lsquo;many hands make light work&amp;rsquo; philosophy. Activity is intended to be asynchronous and just-in-time.&#xA;Lead Investigator James Smithies Co-Investigator Barbara McGillivray Co-Investigator John Moore Cultural Co-Creativity Consultant, AU Maya Haviland Indigenous Consultant, NZ Karaitiana Taiuru Trove Consultant Jenny Ostini Hansard Consultant, AU Roxanne Missingham Hansard Consultant, UK Martin Spychal Research Officer TBC Software Vendor TBC Observers # Observers from related projects have been given access to project management tools to maximise the potential for cross-project collaboration.</description>
+      <guid>https://jamessmithies.github.io/aiinfra/docs/team/</guid>
+      <description>Team # The AIINFRA team is transnational and broad, with a &amp;lsquo;many hands make light work&amp;rsquo; philosophy. Activity is intended to be asynchronous and just-in-time.&#xA;Lead Investigator James Smithies Co-Investigator Barbara McGillivray Co-Investigator John Moore Cultural Co-Creativity Consultant, AU Maya Haviland Indigenous Consultant, NZ Karaitiana Taiuru Trove Consultant Jenny Ostini Hansard Consultant, AU Roxanne Missingham Hansard Consultant, UK Martin Spychal Research Officer Glen Berman Software Vendor TBC Observers # Observers from related projects have been given access to project management tools to maximise the potential for cross-project collaboration.</description>
     </item>
     <item>
       <title>Governance</title>
-      <link>http://localhost:1313/docs/governance/</link>
+      <link>https://jamessmithies.github.io/aiinfra/docs/governance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/governance/</guid>
+      <guid>https://jamessmithies.github.io/aiinfra/docs/governance/</guid>
       <description> Governance # AIINFRA is a small project with lean governance. The project is coordinated from the ANU, with oversight from an Advisory Board that will meet as required. A Cultural Co-Creativity Consultant (Australia) and Indigenous Consultant (Aotearoa / New Zealand) guide Indigenous aspects of the project. An international Expert User Group will test the prototype and be offered opportunities to review the test harness and framework.&#xA;Advisory Board # Alison Dellit National Library of Australia Catherine Elliott The National Archives Steven Fox Australian Parliamentary Library Hoani Lambert Te Tari Taiwhenua Department of Internal Affairs </description>
     </item>
     <item>
       <title>Principles</title>
-      <link>http://localhost:1313/docs/principles/</link>
+      <link>https://jamessmithies.github.io/aiinfra/docs/principles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/principles/</guid>
+      <guid>https://jamessmithies.github.io/aiinfra/docs/principles/</guid>
       <description>Principles # AIINFRA is an exploratory project that will identify and implement best practices for the design, development, assessment, and maintenance of research tools enabled by Large Language Models (LLMs).&#xA;We will be designing and building a prototype tool using digital humanities and research software engineering (RSE) methods. We are as interested in identify governance models and frameworks capable of guiding those activities as the underlying technologies, however.&#xA;This page will be updated as the project evolves.</description>
     </item>
     <item>
       <title>Research Outputs</title>
-      <link>http://localhost:1313/docs/research/</link>
+      <link>https://jamessmithies.github.io/aiinfra/docs/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/research/</guid>
+      <guid>https://jamessmithies.github.io/aiinfra/docs/research/</guid>
       <description>Research outputs will be defined iteratively over the course of the project. We expect to produce conference papers, journal articles, and a policy white paper recommending best practices for the research and GLAM communities.</description>
     </item>
     <item>
       <title>Technical Outputs</title>
-      <link>http://localhost:1313/docs/technical/</link>
+      <link>https://jamessmithies.github.io/aiinfra/docs/technical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/technical/</guid>
+      <guid>https://jamessmithies.github.io/aiinfra/docs/technical/</guid>
       <description>Technical Outputs # AIINFRA will primarily be engaged in non-technical work, but in order to produce high quality non-technical outputs we will be preparing source data, experimenting with commercial and open source tools, and building an open source LLM-powered research tool. Code and other technical outputs associated with that work will be made available here.&#xA;NZ Hansard Google Books / Hathi Trust Data Cleaning&#xA;AIINFRA project website</description>
     </item>
     <item>
       <title>Framework</title>
-      <link>http://localhost:1313/docs/framework/</link>
+      <link>https://jamessmithies.github.io/aiinfra/docs/framework/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/framework/</guid>
+      <guid>https://jamessmithies.github.io/aiinfra/docs/framework/</guid>
       <description>Our primary goal is to produce a test harness and framework for the assessment of historical research tools powered by Large Language Models (LLM), prioritising scholarly and Indigenous values. A significant amount of this work will involve horizon scanning of existing best practices currently being developed across the research, GLAM, and commercial sectors. Versions of the framework will be listed here as they appear.</description>
     </item>
     <item>
       <title>Partners</title>
-      <link>http://localhost:1313/docs/partners/</link>
+      <link>https://jamessmithies.github.io/aiinfra/docs/partners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/partners/</guid>
+      <guid>https://jamessmithies.github.io/aiinfra/docs/partners/</guid>
       <description> Partners # ANU HASS Digital Research Hub ANU Library Aotearoa / New Zealand Department of Internal Affairs Australian Parliamentary Library King’s College London The National Library of Australia UK History of Parliament project UK National Archives </description>
     </item>
   </channel>
