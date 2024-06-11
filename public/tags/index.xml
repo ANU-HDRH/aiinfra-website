@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AI as Infrastructure</title>
-    <link>https://jamessmithies.github.io/aiinfra/tags/</link>
+    <link>https://aiinfra.anu.edu.au/tags/</link>
     <description>Recent content in Tags on AI as Infrastructure</description>
     <generator>Hugo</generator>
     <language>en-au</language>
-    <atom:link href="https://jamessmithies.github.io/aiinfra/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aiinfra.anu.edu.au/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
