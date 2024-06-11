@@ -1,10 +1,10 @@
-baseURL = "https://jamessmithies.github.io/aiinfra/"
+baseURL = "https://aiinfra.anu.edu.au"
 languageCode = 'en-au'
 title = 'AI as Infrastructure'
 theme = 'hugo-book'
 publishDir = "public"
 
-[params]
+[params]ß
 
   basePath = "/aiinfra/"
 
