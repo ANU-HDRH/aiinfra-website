@@ -12,9 +12,13 @@ weight: 5
 
 AIINFRA will primarily be engaged in non-technical work, but in order to produce high quality non-technical outputs we will be preparing source data, experimenting with commercial and open source tools, and building an open source LLM-powered research tool. Code and other technical outputs associated with that work will be made available here.
 
+- [ATLAS: Analysis and Testing of Language Models for Archival Systems](https://github.com/AI-as-Infrastructure/aiinfra-atlas)
+
 - [NZ Hansard Google Books / Hathi Trust Data Cleaning](https://github.com/jamessmithies/nz-hansard)
 
 - [AIINFRA project website](https://github.com/jamessmithies/aiinfra)
+
+
 
 
 

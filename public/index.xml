@@ -4,7 +4,7 @@
     <title>Introduction on AI as Infrastructure</title>
     <link>https://aiinfra.anu.edu.au/</link>
     <description>Recent content in Introduction on AI as Infrastructure</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <atom:link href="https://aiinfra.anu.edu.au/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -19,14 +19,14 @@
       <link>https://aiinfra.anu.edu.au/docs/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://aiinfra.anu.edu.au/docs/team/</guid>
-      <description>Team # The AIINFRA team is transnational and broad, with a &amp;lsquo;many hands make light work&amp;rsquo; philosophy. Activity is intended to be asynchronous and just-in-time.&#xA;Lead Investigator James Smithies Co-Investigator Barbara McGillivray Co-Investigator John Moore Cultural Co-Creativity Consultant, AU Maya Haviland Indigenous Consultant, NZ Karaitiana Taiuru Trove Consultant Jenny Ostini Hansard Consultant, AU Roxanne Missingham Hansard Consultant, UK Martin Spychal Research Officer Glen Berman Software Vendor TBC Observers # Observers from related projects have been given access to project management tools to maximise the potential for cross-project collaboration.</description>
+      <description>Team # The AIINFRA team is transnational and broad, with a &amp;lsquo;many hands make light work&amp;rsquo; philosophy. Activity is intended to be asynchronous and just-in-time.&#xA;Lead Investigator James Smithies Co-Investigator Barbara McGillivray Co-Investigator John Moore Māori data sovereignty and AI, NZ Karaitiana Taiuru Trove Consultant Jenny Ostini Hansard Consultant, AU Roxanne Missingham Hansard Consultant, UK Martin Spychal Research Officer Glen Berman Observers # Observers from related projects have been given access to project management tools to maximise the potential for cross-project collaboration.</description>
     </item>
     <item>
       <title>Governance</title>
       <link>https://aiinfra.anu.edu.au/docs/governance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://aiinfra.anu.edu.au/docs/governance/</guid>
-      <description> Governance # AIINFRA is a small project with lean governance. The project is coordinated from the ANU, with oversight from an Advisory Board that will meet as required. A Cultural Co-Creativity Consultant (Australia) and Indigenous Consultant (Aotearoa / New Zealand) guide Indigenous aspects of the project. An international Expert User Group will test the prototype and be offered opportunities to review the test harness and framework.&#xA;Advisory Board # Alison Dellit National Library of Australia Catherine Elliott The National Archives Steven Fox Australian Parliamentary Library Hoani Lambert Te Tari Taiwhenua Department of Internal Affairs </description>
+      <description> Governance # AIINFRA is a small project with lean governance. The project is coordinated from the ANU, with oversight from an Advisory Board that will meet as required. An Indigenous Consultant (Aotearoa / New Zealand) informs cultural aspects of the project. An international Expert User Group will test the evaluation framework and technical test harness.&#xA;Advisory Board # Alison Dellit National Library of Australia Catherine Elliott The National Archives Steven Fox Australian Parliamentary Library Hoani Lambert Te Tari Taiwhenua Department of Internal Affairs </description>
     </item>
     <item>
       <title>Principles</title>
@@ -47,21 +47,21 @@
       <link>https://aiinfra.anu.edu.au/docs/technical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://aiinfra.anu.edu.au/docs/technical/</guid>
-      <description>Technical Outputs # AIINFRA will primarily be engaged in non-technical work, but in order to produce high quality non-technical outputs we will be preparing source data, experimenting with commercial and open source tools, and building an open source LLM-powered research tool. Code and other technical outputs associated with that work will be made available here.&#xA;NZ Hansard Google Books / Hathi Trust Data Cleaning&#xA;AIINFRA project website</description>
+      <description>Technical Outputs # AIINFRA will primarily be engaged in non-technical work, but in order to produce high quality non-technical outputs we will be preparing source data, experimenting with commercial and open source tools, and building an open source LLM-powered research tool. Code and other technical outputs associated with that work will be made available here.&#xA;ATLAS: Analysis and Testing of Language Models for Archival Systems&#xA;NZ Hansard Google Books / Hathi Trust Data Cleaning</description>
     </item>
     <item>
       <title>Framework</title>
       <link>https://aiinfra.anu.edu.au/docs/framework/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://aiinfra.anu.edu.au/docs/framework/</guid>
-      <description>Our primary goal is to produce a test harness and framework for the assessment of historical research tools powered by Large Language Models (LLM), prioritising scholarly and Indigenous values. A significant amount of this work will involve horizon scanning of existing best practices currently being developed across the research, GLAM, and commercial sectors. Versions of the framework will be listed here as they appear.</description>
+      <description>Our primary goal is to produce an evaluation framework and techncial test harness for the assessment of historical research tools powered by Large Language Models (LLM), prioritising scholarly and cultural values. A significant amount of this work will involve horizon scanning of existing best practices currently being developed across the research, GLAM, and commercial sectors. Versions of the framework will be listed here as they appear.</description>
     </item>
     <item>
       <title>Partners</title>
       <link>https://aiinfra.anu.edu.au/docs/partners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://aiinfra.anu.edu.au/docs/partners/</guid>
-      <description> Partners # ANU HASS Digital Research Hub ANU Library Aotearoa / New Zealand Department of Internal Affairs Australian Parliamentary Library King’s College London The National Library of Australia UK History of Parliament project UK National Archives </description>
+      <description> Partners # ANU HASS Digital Research Hub ANU Library Aotearoa / New Zealand Department of Internal Affairs Australian Parliamentary Library King’s College London Taiuru &amp;amp; Associates Ltd The National Library of Australia UK History of Parliament project UK National Archives </description>
     </item>
   </channel>
 </rss>

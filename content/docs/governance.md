@@ -13,7 +13,7 @@ weight: 3
 
 ## Governance 
 
-AIINFRA is a small project with lean governance. The project is coordinated from the ANU, with oversight from an Advisory Board that will meet as required. A Cultural Co-Creativity Consultant (Australia) and Indigenous Consultant (Aotearoa / New Zealand) guide Indigenous aspects of the project. An international Expert User Group will test the prototype and be offered opportunities to review the test harness and framework. 
+AIINFRA is a small project with lean governance. The project is coordinated from the ANU, with oversight from an Advisory Board that will meet as required. An Indigenous Consultant (Aotearoa / New Zealand) informs cultural aspects of the project. An international Expert User Group will test the evaluation framework and technical test harness.
 
 ## Advisory Board
 |            |                                                  |

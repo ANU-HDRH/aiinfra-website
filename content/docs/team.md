@@ -16,13 +16,11 @@ The AIINFRA team is transnational and broad, with a 'many hands make light work'
 | Lead Investigator                            | [James Smithies](https://www.jamessmithies.org/index.html)|
 | Co-Investigator                              | [Barbara McGillivray](https://www.kcl.ac.uk/people/barbara-mcgillivray) |
 | Co-Investigator                              | [John Moore](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/john-moore/) |
-| Cultural Co-Creativity Consultant, AU | [Maya Haviland](https://researchers.anu.edu.au/researchers/haviland-mld) |
-| Indigenous Consultant, NZ | [Karaitiana Taiuru](https://www.taiuru.maori.nz/) |
+| Māori data sovereignty and AI, NZ            | [Karaitiana Taiuru](https://www.taiuru.maori.nz/) |
 | Trove Consultant                             | [Jenny Ostini](https://au.linkedin.com/in/jennyostini) |
-| Hansard Consultant, AU                | [Roxanne Missingham](https://anulib.anu.edu.au/about/key-library-personnel/roxanne-missingham) |
-| Hansard Consultant, UK               | [Martin Spychal](https://www.historyofparliamentonline.org/about/staff/dr-martin-spychal) |
+| Hansard Consultant, AU                       | [Roxanne Missingham](https://anulib.anu.edu.au/about/key-library-personnel/roxanne-missingham) |
+| Hansard Consultant, UK                       | [Martin Spychal](https://www.historyofparliamentonline.org/about/staff/dr-martin-spychal) |
 | Research Officer                             | [Glen Berman](https://www.linkedin.com/posts/glenberman_innovative-methods-for-critical-studies-of-activity-6953573626814025728-JrKu/) |
-| Software Vendor                              | TBC |
 
 ## Observers
 Observers from related projects have been given access to project management tools to maximise the potential for cross-project collaboration. 
